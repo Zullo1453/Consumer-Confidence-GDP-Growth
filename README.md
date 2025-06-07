@@ -16,3 +16,8 @@ First test the significance of consumer confidence on short term GDP growth in A
 - `outputs/` → Charts and results
 - `writeup.md` → Final summary
 - `project-notes.md` → Research log and reflections
+
+## 🧠 Research Questions
+- Does consumer confidence predict GDP growth?
+- Is the effect stronger in developed or developing economies?
+- How far in advance (lags) does confidence have predictive power?
