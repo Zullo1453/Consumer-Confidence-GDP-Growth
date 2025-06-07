@@ -2,7 +2,7 @@
 
 ## Overview
 - Can we confidently use consumer confidence to predict GDP across distinct economies?
-Key Points of Investigation
+## Key Points of Investigation
 - How significant is this effect?
 - What are the lagging effects? How long does it lag beyond actual GDP growth?
 - How does this effect differ from country to country? From rich to poor?
