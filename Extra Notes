@@ -1,10 +1,10 @@
 ## Data Collection
 
-| Option                      | Value                         |  | Reason                            |
+| Option                      | Value                         | Reason                             |
 | --------------------------- | ----------------------------- | ---------------------------------  |
-| **Reference area**          | Australia                     |  Correct focus                     |
-| **Measure**                 | Composite consumer confidence |  Standard index                    |
+| **Reference area**          | Australia                     | Correct focus                      |
+| **Measure**                 | Composite consumer confidence | Standard index                     |
 | **Adjustment**              | Amplitude adjusted            | Makes series comparable over time  |
-| **Calculation methodology** | OECD harmonised               |  Ensures international consistency |
-| **Frequency**               | Monthly (no quarterly option) | ✅ Can be converted to quarterly     |
-| **Time period**             | 1990–2024                     | Great historical range            |
+| **Calculation methodology** | OECD harmonised               | Ensures international consistency  |
+| **Frequency**               | Monthly (no quarterly option) | Can be converted to quarterly      |
+| **Time period**             | 1990–2024                     | Great historical range             |
