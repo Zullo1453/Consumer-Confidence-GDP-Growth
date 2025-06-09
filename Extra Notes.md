@@ -12,3 +12,5 @@
 | **Calculation methodology** | OECD harmonised               | Ensures international consistency  |
 | **Frequency**               | Monthly (no quarterly option) | Can be converted to quarterly      |
 | **Time period**             | 1990–2024                     | Great historical range             |
+
+At the moment I am going with monthly data points.
