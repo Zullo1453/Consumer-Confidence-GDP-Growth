@@ -17,14 +17,14 @@ have to adjust the monthly into quarterly averages.
 
 **For CCI data, Composite leading indicators:**
 
--> Reference area: Australia
+--> Reference area: Australia
 
--> Frequency of observation: Monthly
+--> Frequency of observation: Monthly
 
--> Measure: Composite consumer confidence
+--> Measure: Composite consumer confidence
 
-->Calculation methodology: OECD harmonised
+--> Calculation methodology: OECD harmonised
 
--> Unit of measure: Index, Amplitude adjusted
+--> Unit of measure: Index, Amplitude adjusted
 
 
