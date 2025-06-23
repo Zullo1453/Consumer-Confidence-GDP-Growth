@@ -10,7 +10,7 @@
 | **Measure**                 | Composite consumer confidence | Standard index                     |
 | **Adjustment**              | Amplitude adjusted            | Makes series comparable over time  |
 | **Calculation methodology** | OECD harmonised               | Ensures international consistency  |
-| **Frequency**               | Monthly (no quarterly option) | Can be converted to quarterly      |
+| **Frequency**               | Quarterly                     | Both have quarterly data avaliable |
 | **Time period**             | 1990–2024                     | Great historical range             |
 
-At the moment I am going with monthly data points.
+I will be using quarterly data inputs.
