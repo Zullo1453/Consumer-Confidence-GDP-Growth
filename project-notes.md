@@ -22,7 +22,7 @@
 - [OECD GDP Growth](https://data.oecd.org/gdp/quarterly-gdp.htm)
 
 ## Tasks + Notes
-- [ ] Download CCI + GDP data (Australia)
+- [x] Download CCI + GDP data (Australia)
 - [ ] Clean and align quarterly data
 - [ ] Explore correlation and lagged trends
 - [ ] Run regressions: GDP_t = f(CCI_t-1)
