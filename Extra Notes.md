@@ -15,6 +15,8 @@
 I will be using quarterly data inputs for GDP growth and monthly for Consumer Confidence Index. This will mean in the future I will
 have to adjust the monthly into quarterly averages.
 
+**NOTE:** The GDP data only goes up to 2024 Q1. So adjust the monthly CCI data to accomodate.
+
 **For CCI data, Composite leading indicators:**
 
 --> Reference area: Australia
