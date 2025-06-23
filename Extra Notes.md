@@ -27,4 +27,4 @@ have to adjust the monthly into quarterly averages.
 
 --> Unit of measure: Index, Amplitude adjusted
 
-
+For GDP data, Composite leading indicators:
