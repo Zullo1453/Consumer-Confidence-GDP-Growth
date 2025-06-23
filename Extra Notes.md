@@ -16,8 +16,8 @@ I will be using quarterly data inputs for GDP growth and monthly for Consumer Co
 have to adjust the monthly into quarterly averages.
 
 **For CCI data, Composite leading indicators:**
-Reference area: Australia
-Frequency of observation: Monthly
+--> Reference area: Australia
+--> Frequency of observation: Monthly
 Measure: Composite consumer confidence
 Calculation methodology: OECD harmonised
 Unit of measure: Index, Amplitude adjusted
