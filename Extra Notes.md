@@ -30,3 +30,12 @@ have to adjust the monthly into quarterly averages.
 --> Unit of measure: Index, Amplitude adjusted
 
 For GDP data, Composite leading indicators:
+
+--> Frequency of observation: Quarterly
+
+--> Reference area: Australia
+
+--> Combined transaction: Gross domestic product, Total economy
+
+--> Combined unit of measure: Growth rate, period on period, Chain linked volume, Calendar and seasonally adjusted
+
